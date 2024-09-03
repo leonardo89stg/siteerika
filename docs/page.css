@@ -1,0 +1,37 @@
+body {
+  background: linear-gradient(to right, var(--bs-teal), var(--bs-green));
+  color: white;
+  padding: 20px;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300; /* Light weight */
+  
+}
+#card-info{
+  background-color: none;
+}
+#link-inst a {
+  color: #fff6f6;
+  margin: 0px 0px 0px 0px;
+}
+
+#link-facebook a {
+  color: #fff6f6;
+  margin: 0px 0px 0px 0px;
+}
+
+.bt-link {
+  background: var(--bs-green) !important;
+  color: rgb(237, 231, 231)  !important;
+}
+#text{
+  
+  color: rgb(237, 231, 231)  !important;
+  text-indent: 3em !important;
+}
+
+ 
